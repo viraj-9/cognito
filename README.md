@@ -2,6 +2,7 @@
 
 Cognito is a multilingual language-learning companion. Learners can search a curated lesson library, practice short questions, save their progress, rate recommendations, and chat with an optional AI tutor. The existing premium visual style is retained; internal curriculum alignment is kept out of the interface and public API.
 
+## Try it here - https://cognito-7nkd.onrender.com
 ## Run on Windows
 
 Python 3.10 or newer is required. From PowerShell in the project folder:
